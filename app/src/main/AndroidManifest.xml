@@ -13,6 +13,30 @@
         android:theme="@style/Theme.AduFast"
         tools:targetApi="31">
         <activity
+            android:name=".RiwayatLaporanAnda"
+            android:exported="false" />
+        <activity
+            android:name=".ListAduanAnda"
+            android:exported="false" />
+        <activity
+            android:name=".panduanAduan"
+            android:exported="false" />
+        <activity
+            android:name=".adukan"
+            android:exported="false" />
+        <activity
+            android:name=".info"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
