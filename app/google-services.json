@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063503625714",
+    "project_id": "adufast-eff7e",
+    "storage_bucket": "adufast-eff7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063503625714:android:26a649095372eea5ac7f6b",
+        "android_client_info": {
+          "package_name": "com.example.adufast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYK52C3azU_YWi1VezMvAHvhMpwuAfzj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main_layout"
     android:layout_width="match_parent"
-    android:layout_margin="20dp"
     android:layout_height="match_parent"
+    android:background="@color/white"
     android:orientation="vertical"
     android:layout_gravity="center"
     android:gravity="center"
@@ -71,7 +71,7 @@
             android:layout_marginTop="50dp">
 
             <LinearLayout
-                android:id="@+id/news"
+                android:id="@+id/infoterkini"
                 android:layout_width="150dp"
                 android:layout_height="100dp"
                 android:orientation="vertical"
@@ -91,7 +91,7 @@
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/report"
+                android:id="@+id/adukan"
                 android:layout_width="150dp"
                 android:layout_height="100dp"
                 android:orientation="vertical"
@@ -120,7 +120,7 @@
             android:layout_marginTop="20dp">
 
             <LinearLayout
-                android:id="@+id/rules"
+                android:id="@+id/peraturan"
                 android:layout_width="150dp"
                 android:layout_height="100dp"
                 android:orientation="vertical"
@@ -140,7 +140,7 @@
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/history"
+                android:id="@+id/laporananda"
                 android:layout_width="150dp"
                 android:layout_height="100dp"
                 android:orientation="vertical"

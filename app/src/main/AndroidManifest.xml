@@ -11,10 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AduFast"
-        tools:targetApi="31">
-        <activity
-            android:name=".RiwayatLaporanAnda"
-            android:exported="false" />
+        tools:targetApi="34">
         <activity
             android:name=".ListAduanAnda"
             android:exported="false" />
